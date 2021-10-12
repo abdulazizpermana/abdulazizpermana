@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulazizpermana
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me abdulazizpermana106@gmail.com
 
 <!---
