@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Professional Summary
-QA Automation Engineer with 2+ years of experience in web and mobile testing, specializing in:
+QA Automation Engineer with 3+ years of experience in web and mobile testing, specializing in:
 - Selenium WebDriverIO (JavaScript)
 - Appium Mobile Automation
 - Robot Framework (Python)
@@ -15,32 +15,6 @@ QA Automation Engineer with 2+ years of experience in web and mobile testing, sp
 - API, Log & Database Validation
 
 Strong experience in banking systems, transaction validation, and enterprise-level software delivery.
-
----
-
-## 💼 Career Journey
-### 🏦 QA Engineer (Automation & Manual) — Indonesia Eximbank
-**Apr 2025 – Present**
-- Built Robot Framework automation with custom keywords
-- Data-driven testing using Excel integration
-- Performance testing with JMeter (1,000–10,000 users)
-- SIT / UAT / Go-Live validation
-
-### 🏛️ QA Engineer — Bank Negara Indonesia (BNI)
-**Feb 2024 – Apr 2025**
-- Built Selenium WebDriverIO framework
-- Page Object Model + BDD (Gherkin)
-- Appium mobile automation
-- Kibana log validation + SQL database checks
-
-### 📱 Mobile Developer (Flutter)
-**2022 – 2024**
-- Flutter apps development
-- Academic systems
-- Employee systems
-- Feature development & QA support
-
----
 
 ## 🛠️ Tech Stack
 
