@@ -1,89 +1,178 @@
 # Hi there 👋 I'm Abdul Aziz Permana
 
-🚀 QA Automation Engineer | Former Mobile Developer | Software Quality Enthusiast  
-🌍 Based in Jakarta, Indonesia | Open to Remote Global Opportunities  
+🚀 **QA Automation Engineer | AI Engineering & Data Science Learner | Former Mobile Developer**
+🌍 Based in Jakarta, Indonesia | Open to Remote Global Opportunities
 
 ---
 
-## 👨‍💻 Professional Summary
-QA Automation Engineer with 3+ years of experience in web and mobile testing, specializing in:
-- Selenium WebDriverIO (JavaScript)
-- Appium Mobile Automation
-- Robot Framework (Python)
-- JMeter Performance Testing
-- SIT / UAT / Regression Testing
-- API, Log & Database Validation
+## 👨‍💻 About Me
 
-Strong experience in banking systems, transaction validation, and enterprise-level software delivery.
+I'm a **QA Automation Engineer with 3+ years of experience** in web and mobile software testing, with a background in mobile development.
+
+Currently, I'm expanding my skills beyond software testing by learning **Python, Data Science, Machine Learning, and AI Engineering**.
+
+My current learning journey focuses on:
+
+* 🐍 Python Programming
+* 📊 Data Analysis & Data Science
+* 🤖 Machine Learning & AI
+* 🧠 AI Engineering & LLM Applications
+* ⚙️ Automation & Software Testing
+
+I enjoy learning by building things, experimenting with technology, and documenting what I learn through GitHub.
+
+> **QA → Python → Data → AI**
+
+---
+
+## 💼 Professional Background
+
+### QA Automation Engineer
+
+3+ years of experience working with web and mobile applications, including enterprise and banking systems.
+
+My experience includes:
+
+* Test Automation
+* Web & Mobile Testing
+* API Testing
+* SIT / UAT / Regression Testing
+* Functional & Integration Testing
+* Database Validation
+* Log Validation
+* Test Case Design & Execution
+* Enterprise Application Testing
+* Banking & Financial Transaction Testing
+
+### Previous Experience
+
+* QA Automation Engineer
+* Software Engineer
+* Mobile Developer
+* Flutter Developer
+
+---
 
 ## 🛠️ Tech Stack
 
-### Automation & QA
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge)
-![Katalon](https://img.shields.io/badge/Katalon-00B140?style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge)
+### 🧪 QA & Test Automation
 
-### Programming
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-009688?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-6A1B9A?style=for-the-badge)
+`Selenium` `WebDriverIO` `Appium` `Katalon` `Robot Framework` `JMeter`
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
-![ICONS](https://img.shields.io/badge/ICONS-1E88E5?style=for-the-badge)
-![Allure_Report](https://img.shields.io/badge/Allure_Report-E6FF4F?style=for-the-badge)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+### 💻 Programming
+
+`Python` `JavaScript` `Java` `Dart` `SQL`
+
+### 📱 Development
+
+`Flutter` `Laravel` `REST API`
+
+### 📊 Data & AI — Currently Learning
+
+`Python` `NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Machine Learning` `LLM` `RAG` `AI Agents`
+
+### 🗄️ Database
+
+`MySQL` `PostgreSQL` `Oracle`
+
+### 🔧 Tools
+
+`Git` `GitHub` `GitLab` `Jira` `Confluence` `DBeaver` `Kibana` `Allure Report`
+
+---
+
+## 📚 Current Learning Journey
+
+I'm currently building my foundation in **Python** before moving deeper into Data Science and AI Engineering.
+
+```text
+Python Fundamentals
+        ↓
+Data Structures & Algorithms
+        ↓
+NumPy & Pandas
+        ↓
+Data Analysis
+        ↓
+Statistics
+        ↓
+Machine Learning
+        ↓
+AI Engineering
+        ↓
+LLM • RAG • AI Agents
+```
+
+My approach:
+
+**Learn → Understand → Practice → Experiment → Document → Build**
+
+I don't aim to memorize everything.
+
+I aim to understand the concepts, practice them, and build projects with them.
 
 ---
 
 ## 📌 Featured Projects
-### 🔥 Automation Testing Framework
-- Selenium WebDriverIO + JavaScript
-- POM + BDD (Gherkin)
-- Allure Reporting
-- End-to-End Banking Transaction Testing
+
+### 🧪 Automation Testing
+
+**Selenium / WebDriverIO + JavaScript**
+
+* Page Object Model
+* BDD / Gherkin
+* Allure Reporting
+* End-to-End Testing
+* Banking Transaction Testing
 
 ### 📱 Mobile Development
-- Flutter Academic Information System
-- Employee App System
-- Banking Mobile Feature Enhancement
+
+**Flutter**
+
+* Academic Information System
+* Employee Application
+* Mobile Application Features
+
+### 🐍 Python Learning
+
+Currently documenting my Python learning journey:
+
+* Python fundamentals
+* Variables & data types
+* Data conversion
+* String manipulation
+* Programming exercises
+* Small experiments
+
+More projects will be added as I progress into **Data Science and AI Engineering**.
 
 ---
 
 ## 🎓 Education
-🎓 Master of Information System Engineering — STMIK LIKMI  
-🎓 Bachelor of Information System — Universitas Ma’soem  
+
+🎓 **Master of Information System Engineering** — STMIK LIKMI
+🎓 **Bachelor of Information System** — Universitas Ma’soem
 
 ---
 
 ## 🏆 Achievement
-🥈 2nd Place – Best Project iTalase (2021)
+
+🥈 **2nd Place – Best Project iTalase (2021)**
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- Add your GitHub stats here -->
+
 ---
 
 ## 📫 Connect With Me
-- 📧 abdulazizpermana106@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/abdulazizpermana/
+
+📧 **Email:** [abdulazizpermana106@gmail.com](mailto:abdulazizpermana106@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/abdulazizpermana](https://www.linkedin.com/in/abdulazizpermana/)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=abdulazizpermana&color=blue)
+> 🚀 **Building my journey from Software Testing to Data and AI, one step at a time.**
