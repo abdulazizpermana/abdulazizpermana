@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Abdul Aziz Permana
 
 🚀 **QA Automation Engineer | AI Engineering & Data Science Learner | Former Mobile Developer**
+
 🌍 Based in Jakarta, Indonesia | Open to Remote Global Opportunities
 
 ---
